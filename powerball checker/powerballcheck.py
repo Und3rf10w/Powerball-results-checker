@@ -118,7 +118,7 @@ for ticket in separate_tickets: #run this for each ticket in our list
 input_winning_numbers.close()
 input_your_numbers.close()
 print ""
-print "Pirzes differ in California. see powerball.com for CA prize info. This program and its developer are not related in any way to Powerball or the Multistate Lottery Association (MUSL)"
+print "Prizes differ in California. see powerball.com for CA prize info. This program and its developer are not related in any way to Powerball or the Multistate Lottery Association (MUSL)"
 print ""
 raw_input("Press enter to exit")
 
