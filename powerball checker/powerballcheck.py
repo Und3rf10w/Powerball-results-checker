@@ -91,7 +91,6 @@ def checknumbers(my1, my2, my3, my4, my5, mypowerball):
     return str(prize)
 
 separate_tickets = initial_your_numbers.split(';') #splits tickets via the semicolon delimeter
-print separate_tickets
 
 ticketcounter = 0
 
