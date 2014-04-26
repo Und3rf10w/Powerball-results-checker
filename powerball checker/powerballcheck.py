@@ -11,7 +11,7 @@ input_your_numbers = open("yournumbers.txt", "r") #opens the text file containin
 #format the file with a comma delimeter as above, but a semicolon between sets of numbers on the ticket
 #for example: 19,25,29,36,48,12;5,6,29,35,51,21;34,39,42,44,59,8
 
-#PLEASE NOTE: Tickets should be in numerical order already. If not, please type in numerical order EXCEPT for the powerball, which has to be sixth!
+
 
 initial_winning_numbers = input_winning_numbers.read() #reads the text file
 initial_your_numbers = input_your_numbers.read() #reads the text file
