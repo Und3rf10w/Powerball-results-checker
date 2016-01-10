@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #Check your powerball numbers!
 #created by Brandon I.
 
@@ -103,6 +104,6 @@ input_your_numbers.close()
 print ""
 print "Prizes differ in California. See powerball.com for CA prize info. This program and its developer are not related in any way to Powerball or the Multistate Lottery Association (MUSL). Numbers not official until verified."
 print ""
-raw_input("Press enter to exit")
+# raw_input("Press enter to exit")
 
 
